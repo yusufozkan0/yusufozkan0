@@ -16,7 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=yusufozkan0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yusufozkan0&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=yusufozkan0&label=Profile%20Views&color=12&icon=2&pretty=true" />
